@@ -1,5 +1,7 @@
 # S-Commerce Platform
 
+`In Development`
+
 S-Commerce is an e-commerce platform made on the MERN stack.
 
 The repository has 2 parts:
